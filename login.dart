@@ -1,9 +1,9 @@
 void main(List<String> args) {}
 
 class login {
-  String username;
+  String user;
   String password;
-  login(this.username, this.password) {
+  login(this.user, this.password) {
     print("Login Succesfull");
   }
 }
